@@ -1,11 +1,11 @@
 {
   "spider": "./spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "http://肥猫.net/fm.gif",
+  "logo": "http://hello.xn--z7x900a.net/fm.gif",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼┃公众号：我不是肥猫┃",
+      "name": "🐼┃公众号：熊猫是只肥猫┃",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -33,7 +33,6 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "http://cc.sduc.site/",
           "http://shandian.blog/",
           "http://sd.sduc.site/"
         ],
@@ -134,6 +133,13 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+    },
+    {
+      "key": "韩圈",
+      "name": "🥽┃韩圈┃APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": " http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
       "key": "蔬菜",
