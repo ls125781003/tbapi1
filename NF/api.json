@@ -22,7 +22,7 @@
             "name": "Ⓜ️嗷呜弹幕设置",
             "type": 3,
             "api": "csp_AAConfigAmns",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "key": "ConfigCenter",
@@ -54,7 +54,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "Guazi",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "key": "天天",
@@ -419,7 +419,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Mtq",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🍊柚子",
@@ -430,7 +430,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Xyz",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏃‍♂️‍➡️追剧",
@@ -441,7 +441,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Zjdr",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🍌小黄人",
@@ -452,7 +452,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Xhr",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "📦咸鱼",
@@ -463,7 +463,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Xy",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "📦零零七",
@@ -474,7 +474,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV7Llq",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🐶特狗",
@@ -485,7 +485,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "AppV6Tg",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏭厂长",
@@ -496,7 +496,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "ext": "Czzy",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🐱囧途动漫",
@@ -506,17 +506,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
-            "name": "🐱花海动漫",
-            "key": "DMhhz",
+            "name": "🐱牛来动漫",
+            "key": "DMox",
             "type": 3,
-            "api": "csp_DMhhzAmns",
+            "api": "csp_DMoxAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🐱番薯动漫",
@@ -526,7 +526,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🐱青云动漫",
@@ -536,7 +536,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🐱魔都动漫",
@@ -546,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "⭐韩剧",
@@ -556,7 +556,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🔥短剧推荐",
@@ -568,7 +568,7 @@
             "changeable": 0,
             "genre": "shortdrama",
             "ext": "Hgdh",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬漫剧",
@@ -580,7 +580,7 @@
             "changeable": 0,
             "ext": "MjHggg",
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬短剧",
@@ -592,7 +592,7 @@
             "changeable": 0,
             "ext": "DjHggg",
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬豪堪短剧",
@@ -603,7 +603,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬盒马短剧",
@@ -614,7 +614,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬拜拜短剧",
@@ -625,7 +625,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬围观短剧",
@@ -636,7 +636,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬喵喵短剧",
@@ -647,7 +647,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🎬星星短剧",
@@ -658,7 +658,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "genre": "shortdrama",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏆瓜子体育",
@@ -669,7 +669,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "GuaziLive",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏆飞球体育",
@@ -679,7 +679,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏆88体育",
@@ -690,7 +690,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "BbkqLive",
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "🏆咖啡体育",
@@ -700,7 +700,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "📖富强听书",
@@ -710,7 +710,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "📖文明听书",
@@ -720,7 +720,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "name": "📖嗷嗚听书",
@@ -730,7 +730,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
+        },
+        {
+            "name": "🎸酷听音乐",
+            "key": "Kuwo",
+            "type": 3,
+            "api": "csp_KuwoAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "genre": "music",
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
+        },
+        {
+            "name": "🎸蜻蜓电台",
+            "key": "QTfm",
+            "type": 3,
+            "api": "csp_QTfmAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "genre": "music",
+            "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png"
         },
         {
             "key": "SeedHub",
