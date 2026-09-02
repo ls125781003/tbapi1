@@ -228,7 +228,7 @@
       "api": "csp_AppGet",
       "quickSearch": 1,
       "timeout": 12,
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+      "ext": "http://110.42.67.130:1226|kj37zs29q22jk96t|V122|okhttp/3.10.0"
     },
     {
       "key": "csp_Wwys",
@@ -291,28 +291,6 @@
       }
     },
     {
-      "key": "yunduo",
-      "name": "🌺云朵┃高清影视",
-      "type": 3,
-      "api": "./api/22c3cface9574d1ff81334e9b33e6d17.js",
-      "ext": {
-        "host": "https://duoduotv.top",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "ver": "7",
-        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A"
-      }
-    },
-    {
-      "key": "csp_PianKu8",
-      "name": "🍬山楂┃热门4K",
-      "type": 3,
-      "api": "csp_PianKu8"
-    },
-    {
       "key": "枫叶影视",
       "name": "🍁枫叶┃热门4K",
       "type": 3,
@@ -337,6 +315,13 @@
         "buildNumber": "2003",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
+    },
+    {
+      "key": "韩圈",
+      "name": "🥪韩圈┃热门韩剧",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
     },
     {
       "key": "ciyuancheng",
