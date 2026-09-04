@@ -34,7 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "site": [
           "https://mihdr.top",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
@@ -301,22 +301,6 @@
       "ext": "https://www.vip1949.com/"
     },
     {
-      "key": "双星99",
-      "name": "🥪双星┃热门动漫",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
       "key": "韩圈",
       "name": "🥪韩圈┃热门韩剧",
       "type": 3,
@@ -352,6 +336,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tangsan.fun/config.php?source=xifan"
+    },
+    {
+      "key": "csp_HongGuo",
+      "name": "🍎果子┃精选短剧",
+      "type": 3,
+      "jar": "./jars/csp_HongGuo.jar",
+      "api": "csp_HongGuo",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_duanju",
@@ -570,6 +564,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
+    },
+    {
+      "key": "弹幕",
+      "name": "弹幕(测试)",
+      "type": 3,
+      "jar": "./jars/弹幕.jar",
+      "api": "csp_SecureDanmu",
+      "index": 1,
+      "ext": {
+        "apiUrls": [
+          "https://danmu.0000996.xyz/87654321|公益源",
+          "https://dm.wodenas.xin/xiatianembydmkk|公益源1",
+          "https://uzdm.616222.xyz|uz公益源"
+        ],
+        "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
+      }
     },
     {
       "key": "Aid",
