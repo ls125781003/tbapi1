@@ -404,6 +404,14 @@
             "changeable": 1
         },
         {
+            "key": "csp_HongGuo",
+            "name": "🔴红果短剧",
+            "type": 3,
+            "api": "csp_HongGuo",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "name": "📦蒙太奇",
             "key": "AppV7Mtq",
             "type": 3,
