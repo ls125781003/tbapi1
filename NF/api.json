@@ -764,6 +764,23 @@
             }
         },
         {
+            "key": "歌",
+            "name": "0️⃣歌",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "./json/peizhi.json",
+                "siteUrl": [
+                    "https://woog.nxog.eu.org",
+                    "https://ogkk.nxog.eu.org",
+                    "https://woog.430520.xyz"
+                ],
+                "filter": "./json/wogg.json"
+            }
+        },
+        {
             "key": "多多",
             "name": "🌟多多",
             "type": 3,
