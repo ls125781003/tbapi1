@@ -1,115 +1,115 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV1.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV1
-http://127.0.0.1:5266/iptv/play/cctv1.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV2.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV2
-http://127.0.0.1:5266/iptv/play/cctv2.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV3.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV3
-http://127.0.0.1:5266/iptv/play/cctv3.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV4.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV4
-http://127.0.0.1:5266/iptv/play/cctv4.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV5.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV5
-http://127.0.0.1:5266/iptv/play/cctv5.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV5+.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV5+
-http://127.0.0.1:5266/iptv/play/cctv5p.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV6.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV6
-http://127.0.0.1:5266/iptv/play/cctv6.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV7.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV7
-http://127.0.0.1:5266/iptv/play/cctv7.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV8.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV8
-http://127.0.0.1:5266/iptv/play/cctv8.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV9.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV9
-http://127.0.0.1:5266/iptv/play/cctv9.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV10.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV10
-http://127.0.0.1:5266/iptv/play/cctv10.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV11.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV11
-http://127.0.0.1:5266/iptv/play/cctv11.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV12.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV12
-http://127.0.0.1:5266/iptv/play/cctv12.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV13.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV13
-http://127.0.0.1:5266/iptv/play/cctv13.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV14.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV14
-http://127.0.0.1:5266/iptv/play/cctv14.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV15.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV15
-http://127.0.0.1:5266/iptv/play/cctv15.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV16.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV16
-http://127.0.0.1:5266/iptv/play/cctv16.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV17.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV17
-http://127.0.0.1:5266/iptv/play/cctv17.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV4K.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV4K
-http://127.0.0.1:5266/iptv/play/cctv4k.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV8K.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV8K
-http://127.0.0.1:5266/iptv/play/cctv8k.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV第一剧场
-http://127.0.0.1:5266/iptv/play/cctvdyjc.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV风云剧场
-http://127.0.0.1:5266/iptv/play/cctvfyjc.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CCTV怀旧剧场
-http://127.0.0.1:5266/iptv/play/cctvhjjc.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CETV1.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",CETV1
-http://127.0.0.1:5266/iptv/play/cetv1.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",北京卫视
-http://127.0.0.1:5266/iptv/play/bjws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",东方卫视
-http://127.0.0.1:5266/iptv/play/dfws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",江苏卫视
-http://127.0.0.1:5266/iptv/play/jsws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",浙江卫视
-http://127.0.0.1:5266/iptv/play/zjws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",湖南卫视
-http://127.0.0.1:5266/iptv/play/hnws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",湖北卫视
-http://127.0.0.1:5266/iptv/play/hbws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",广东卫视
-http://127.0.0.1:5266/iptv/play/gdws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",广西卫视
-http://127.0.0.1:5266/iptv/play/gxws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",黑龙江卫视
-http://127.0.0.1:5266/iptv/play/hljws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",海南卫视
-http://127.0.0.1:5266/iptv/play/hnws2.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",重庆卫视
-http://127.0.0.1:5266/iptv/play/cqws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",深圳卫视
-http://127.0.0.1:5266/iptv/play/szws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",四川卫视
-http://127.0.0.1:5266/iptv/play/scws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",河南卫视
-http://127.0.0.1:5266/iptv/play/henanws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",东南卫视
-http://127.0.0.1:5266/iptv/play/fjdnhz.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",贵州卫视
-http://127.0.0.1:5266/iptv/play/gzhws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",江西卫视
-http://127.0.0.1:5266/iptv/play/jxws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",辽宁卫视
-http://127.0.0.1:5266/iptv/play/lnws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",安徽卫视
-http://127.0.0.1:5266/iptv/play/ahws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",河北卫视
-http://127.0.0.1:5266/iptv/play/hbws2.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",山东卫视
-http://127.0.0.1:5266/iptv/play/sdws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",天津卫视
-http://127.0.0.1:5266/iptv/play/tjws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",陕西卫视
-http://127.0.0.1:5266/iptv/play/shanxiws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",内蒙古卫视
-http://127.0.0.1:5266/iptv/play/nmgws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",云南卫视
-http://127.0.0.1:5266/iptv/play/ynws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",吉林卫视
-http://127.0.0.1:5266/iptv/play/jlws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",青海卫视
-http://127.0.0.1:5266/iptv/play/qhws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",宁夏卫视
-http://127.0.0.1:5266/iptv/play/nxws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",山西卫视
-http://127.0.0.1:5266/iptv/play/shanxiws2.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",新疆卫视
-http://127.0.0.1:5266/iptv/play/xjws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",西藏卫视
-http://127.0.0.1:5266/iptv/play/xzws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",兵团卫视
-http://127.0.0.1:5266/iptv/play/bingtuanws.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
-#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" group-title="其他" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93.png?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc",国学频道
-http://127.0.0.1:5266/iptv/play/guoxue.m3u8?fa=7ecc7b88f041e0f52c13ac9412b81003e24689486de280d0b65a000f289f1cdc&relay=1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV1.png",CCTV1
+http://127.0.0.1:5266/iptv/play/cctv1.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV2.png",CCTV2
+http://127.0.0.1:5266/iptv/play/cctv2.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV3.png",CCTV3
+http://127.0.0.1:5266/iptv/play/cctv3.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV4.png",CCTV4
+http://127.0.0.1:5266/iptv/play/cctv4.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV5.png",CCTV5
+http://127.0.0.1:5266/iptv/play/cctv5.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV5+.png",CCTV5+
+http://127.0.0.1:5266/iptv/play/cctv5p.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV6.png",CCTV6
+http://127.0.0.1:5266/iptv/play/cctv6.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV7.png",CCTV7
+http://127.0.0.1:5266/iptv/play/cctv7.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV8.png",CCTV8
+http://127.0.0.1:5266/iptv/play/cctv8.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV9.png",CCTV9
+http://127.0.0.1:5266/iptv/play/cctv9.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV10.png",CCTV10
+http://127.0.0.1:5266/iptv/play/cctv10.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV11.png",CCTV11
+http://127.0.0.1:5266/iptv/play/cctv11.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV12.png",CCTV12
+http://127.0.0.1:5266/iptv/play/cctv12.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV13.png",CCTV13
+http://127.0.0.1:5266/iptv/play/cctv13.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV14.png",CCTV14
+http://127.0.0.1:5266/iptv/play/cctv14.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV15.png",CCTV15
+http://127.0.0.1:5266/iptv/play/cctv15.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV16.png",CCTV16
+http://127.0.0.1:5266/iptv/play/cctv16.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV17.png",CCTV17
+http://127.0.0.1:5266/iptv/play/cctv17.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV4K.png",CCTV4K
+http://127.0.0.1:5266/iptv/play/cctv4k.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV8K.png",CCTV8K
+http://127.0.0.1:5266/iptv/play/cctv8k.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png",CCTV第一剧场
+http://127.0.0.1:5266/iptv/play/cctvdyjc.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png",CCTV风云剧场
+http://127.0.0.1:5266/iptv/play/cctvfyjc.m3u8?relay=1
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png",CCTV怀旧剧场
+http://127.0.0.1:5266/iptv/play/cctvhjjc.m3u8?relay=1
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="央视" tvg-logo="http://127.0.0.1:5266/iptv/logo/CETV1.png",CETV1
+http://127.0.0.1:5266/iptv/play/cetv1.m3u8?relay=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视
+http://127.0.0.1:5266/iptv/play/bjws.m3u8?relay=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视
+http://127.0.0.1:5266/iptv/play/dfws.m3u8?relay=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+http://127.0.0.1:5266/iptv/play/jsws.m3u8?relay=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视
+http://127.0.0.1:5266/iptv/play/zjws.m3u8?relay=1
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视
+http://127.0.0.1:5266/iptv/play/hnws.m3u8?relay=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视
+http://127.0.0.1:5266/iptv/play/hbws.m3u8?relay=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",广东卫视
+http://127.0.0.1:5266/iptv/play/gdws.m3u8?relay=1
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",广西卫视
+http://127.0.0.1:5266/iptv/play/gxws.m3u8?relay=1
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视
+http://127.0.0.1:5266/iptv/play/hljws.m3u8?relay=1
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视
+http://127.0.0.1:5266/iptv/play/hnws2.m3u8?relay=1
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视
+http://127.0.0.1:5266/iptv/play/cqws.m3u8?relay=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视
+http://127.0.0.1:5266/iptv/play/szws.m3u8?relay=1
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视
+http://127.0.0.1:5266/iptv/play/scws.m3u8?relay=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://127.0.0.1:5266/iptv/play/henanws.m3u8?relay=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",东南卫视
+http://127.0.0.1:5266/iptv/play/fjdnhz.m3u8?relay=1
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png",贵州卫视
+http://127.0.0.1:5266/iptv/play/gzhws.m3u8?relay=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
+http://127.0.0.1:5266/iptv/play/jxws.m3u8?relay=1
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视
+http://127.0.0.1:5266/iptv/play/lnws.m3u8?relay=1
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视
+http://127.0.0.1:5266/iptv/play/ahws.m3u8?relay=1
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视
+http://127.0.0.1:5266/iptv/play/hbws2.m3u8?relay=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视
+http://127.0.0.1:5266/iptv/play/sdws.m3u8?relay=1
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视
+http://127.0.0.1:5266/iptv/play/tjws.m3u8?relay=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png",陕西卫视
+http://127.0.0.1:5266/iptv/play/shanxiws.m3u8?relay=1
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视
+http://127.0.0.1:5266/iptv/play/nmgws.m3u8?relay=1
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png",云南卫视
+http://127.0.0.1:5266/iptv/play/ynws.m3u8?relay=1
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视
+http://127.0.0.1:5266/iptv/play/jlws.m3u8?relay=1
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视
+http://127.0.0.1:5266/iptv/play/qhws.m3u8?relay=1
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视
+http://127.0.0.1:5266/iptv/play/nxws.m3u8?relay=1
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视
+http://127.0.0.1:5266/iptv/play/shanxiws2.m3u8?relay=1
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视
+http://127.0.0.1:5266/iptv/play/xjws.m3u8?relay=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png",西藏卫视
+http://127.0.0.1:5266/iptv/play/xzws.m3u8?relay=1
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视
+http://127.0.0.1:5266/iptv/play/bingtuanws.m3u8?relay=1
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" group-title="其他" tvg-logo="http://127.0.0.1:5266/iptv/logo/%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93.png",国学频道
+http://127.0.0.1:5266/iptv/play/guoxue.m3u8?relay=1
