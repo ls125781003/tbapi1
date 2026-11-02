@@ -457,7 +457,7 @@
       "api": "csp_Push",
       "playerType": "1",
       "searchable": 0,
-      //"ext": ".json/txt/ken.txt"
+      "ext": ".json/txt/ken.txt"
     }
   ],
   "parses": [
