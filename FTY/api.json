@@ -104,7 +104,11 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": {
+        "v2": "1",
+        "deviceId": "6fd6416460897d6b"
+      }
     },
     {
       "key": "立播",

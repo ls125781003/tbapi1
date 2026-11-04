@@ -271,6 +271,16 @@
       }
     },
     {
+      "key": "嗑剧",
+      "name": "🍿┆嗑剧┆4K",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "Ab6RU4ow2BTC3y169gXHkoGyOzagKI89ksf5hxcm0/J5a7/pusSapfK8Oy6MtmlqAq8DsECmgbQ377MzwhHsU61D51ptVLqXXNu87y1TOl17"
+    },
+    {
       "key": "凝光",
       "name": "✨┆凝光┆4K",
       "type": 3,
