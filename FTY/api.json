@@ -107,7 +107,7 @@
       "changeable": 1,
       "ext": {
         "v2": "1",
-        "deviceId": "6fd6416460897d6b"
+        "deviceId": "6dc66339e1314f88"
       }
     },
     {
@@ -352,12 +352,12 @@
       "key": "有声小说",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "csp_Tingshu275Guard",
+      "api": "csp_YueTingGuard",
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
