@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单",
+      "name": "豆豆┃片单 <兼容安卓4>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -126,7 +126,6 @@
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -178,7 +177,6 @@
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -225,7 +223,6 @@
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
