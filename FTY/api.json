@@ -629,7 +629,8 @@
   "hosts": [
     "img1.wsyzy.org=cmcc.vvvv.ee",
     "fiizvfck.top=cmcc.vvvv.ee",
-    "images.67c6c7a.com=cmcc.vvvv.ee"
+    "images.67c6c7a.com=cmcc.vvvv.ee",
+    "sub.ottiptv.cc=cmcc.vvvv.ee"
   ],
   "lives": [
         {
@@ -662,14 +663,6 @@
             "name": "斗鱼一起看",
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        },
-        {
-            "name": "YY轮播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
