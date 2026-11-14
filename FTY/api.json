@@ -50,6 +50,22 @@
       "changeable": 0
     },
     {
+      "key": "alllive",
+      "name": "🎮一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+    },
+    {
       "key": "MTV1",
       "name": "🎙️易听┃音乐",
       "type": 3,
@@ -322,22 +338,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "alllive",
-      "name": "🎮一直播┃直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
     },
     {
       "key": "MTV",
