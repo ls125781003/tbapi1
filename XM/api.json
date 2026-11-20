@@ -67,18 +67,14 @@
       "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwczovL3dvZ2dwYW4uMzMzMjMyLnh5ei8iLAogICAgImh0dHBzOi8vd3d3LndvZ2cubmV0IgogIF0sCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ=="
     },
     {
-      "key": "咖啡·短剧",
-      "name": "☕️果果┃短剧",
-      "type": 3,
+      "ext": "",
+      "filterable": 0,
+      "quickSearch": 1,
+      "name": "🍎果果┃短剧",
       "api": "csp_KaFeiDJ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "lang": "ds",
-      "genre": "短剧",
-      "ext": {
-        "danmu_api": "https://dm.211.li/nonay"
-      }
+      "type": 3,
+      "key": "djaowu",
+      "searchable": 1
     },
     {
       "key": "华数",
