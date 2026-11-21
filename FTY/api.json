@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单 <升级弹幕>",
+      "name": "豆豆┃片单 <fix+升级弹幕>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -117,6 +117,16 @@
       "changeable": 1
     },
     {
+      "key": "韩剧",
+      "name": "🐱韩迷┃外剧",
+      "type": 3,
+      "api": "csp_HanquanGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "光影",
       "name": "🌞光影┃不卡",
       "type": 3,
@@ -172,12 +182,14 @@
       "changeable": 1
     },
     {
-      "key": "海绵",
-      "name": "🐬海绵┃不卡",
+      "key": "花生",
+      "name": "🥜花生┃不卡",
       "type": 3,
-      "api": "csp_HmysGuard",
-      "timeout": 10,
-      "playerType": "2",
+      "api": "csp_HuashuGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
