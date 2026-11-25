@@ -24,7 +24,7 @@
       "name": "Ⓜ️嗷呜弹幕设置",
       "type": 3,
       "api": "csp_AAConfigAmns",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "key": "ConfigCenter",
@@ -56,7 +56,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "key": "天天",
@@ -288,6 +288,20 @@
       "ext": "https://www.meijumi.net/"
     },
     {
+      "key": "csp_BiliFilm",
+      "name": "🅱️哔哩影视",
+      "type": 3,
+      "api": "csp_BiliFilm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "json": "./json/Bili.json",
+        "cookie": ""
+      }
+    },
+    {
       "key": "csp_SP360",
       "name": "💘360",
       "type": 3,
@@ -306,7 +320,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🍊柚子",
@@ -317,7 +331,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📦师兄",
@@ -328,7 +342,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Dsx",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏃‍♂️‍➡️追剧",
@@ -339,7 +353,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🍌小黄人",
@@ -350,7 +364,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xhr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📦咸鱼",
@@ -361,7 +375,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xy",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📦零零七",
@@ -372,7 +386,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Llq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐶特狗",
@@ -383,7 +397,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV6Tg",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🚀秋天",
@@ -394,7 +408,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "NewGrV2",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "⭐杜北",
@@ -405,7 +419,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "Dubk",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "⭐荐片",
@@ -416,7 +430,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "JPian",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "⭐爱看",
@@ -426,7 +440,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏭厂长",
@@ -437,7 +451,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": "Czzy",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱嗷嗚动漫",
@@ -447,7 +461,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱新帆动漫",
@@ -457,7 +471,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱牛来动漫",
@@ -467,7 +481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱贝斯动漫",
@@ -477,7 +491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱冬瓜动漫",
@@ -487,7 +501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🐱魔都动漫",
@@ -497,7 +511,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "⭐韩剧",
@@ -507,7 +521,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🔥经典推荐",
@@ -518,7 +532,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "Xxxg",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🔥下饭推荐",
@@ -528,7 +542,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🔥短剧推荐",
@@ -540,7 +554,7 @@
       "changeable": 0,
       "genre": "shortdrama",
       "ext": "Hgdh",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬短剧",
@@ -552,7 +566,7 @@
       "changeable": 1,
       "ext": "DjHggg",
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬豪堪短剧",
@@ -563,7 +577,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬盒马短剧",
@@ -574,7 +588,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬拜拜短剧",
@@ -585,7 +599,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬围观短剧",
@@ -596,7 +610,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬喵喵短剧",
@@ -607,7 +621,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎬星星短剧",
@@ -618,7 +632,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "shortdrama",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏆瓜子体育",
@@ -629,7 +643,7 @@
       "quickSearch": 0,
       "changeable": 1,
       "ext": "GuaziLive",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏆飞球体育",
@@ -639,7 +653,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏆88体育",
@@ -650,7 +664,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "BbkqLive",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🏆咖啡体育",
@@ -660,7 +674,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📖富强听书",
@@ -670,7 +684,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📖文明听书",
@@ -680,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "📖嗷嗚听书",
@@ -690,7 +704,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎸酷我音乐",
@@ -701,7 +715,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎸橙子音乐",
@@ -711,7 +725,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "name": "🎸蜻蜓电台",
@@ -722,7 +736,17 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
+    },
+    {
+      "name": "🏪壁纸商店",
+      "key": "WPbzm",
+      "type": 3,
+      "api": "csp_WPbzmAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/8273a7a3-e148-4d4c-ac7a-e3dbd5f020f9.png"
     },
     {
       "key": "SeedHub",
@@ -757,7 +781,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://s.panhunt.com",
+        "siteUrl": "https://so.252035.xyz/",
         "filter": {
           "exclude": [
             "预告",
@@ -908,8 +932,7 @@
       "ext": {
         "commonConfig": "./json/peizhi.json",
         "siteUrl": [
-          "https://shandian.blog",
-          "https://sd.sduc.site",
+          "http://oo.sduc.site/",
           "https://sduc.cloud/"
         ],
         "filter": "./json/wogg.json"
