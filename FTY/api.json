@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "片单┃ <修复AI剧>",
+      "name": "片单┃ <修复夸父扫码>",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
